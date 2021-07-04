@@ -246,7 +246,7 @@ hr.light-199 {
   height: 100%;
 }
 #fixed {
-  background-image: url('img/received_.jpeg');
+  background-image: url('received_.jpeg');
   position: fixed;
   display: block;
   top: 0;
